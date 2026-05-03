@@ -15,15 +15,11 @@
 
 ### やりたい 2026
 
-- [ ] Balatro
-- [ ] Euro Truck Simulator 2
-- [ ] オーバーウォッチ
 - [ ] マイクラエンドラ討伐
 
 ### 見たいゲーム 2026
 
-- [ ] yotei
+- [ ] ghost of yotei
 - [ ] 龍が如く2
 - [ ] 龍が如く3
-- [ ] road to vostok
 - [ ] バニガ2

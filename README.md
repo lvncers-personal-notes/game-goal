@@ -1,14 +1,20 @@
 # Overview
 
-- [ ] デス・ストランディング
+- [ ] DEATH STRANDING 1
+- [ ] DEATH STRANDING 2
+- [ ] Vampire Survivors
 - [ ] balatro
-- [ ] euro track simulator
+- [ ] euro track simulator 2
 - [ ] ghost of tsushima
 - [ ] nier automata
 - [ ] nier replicant
 - [ ] モンハンライズ・サンブレ
 - [ ] マイクラエンドラ討伐
+- [ ] DARK SOULS 3
 - [ ] SEKIRO
+- [ ] Clair Obscur: Expedition 33
+- [ ] ライザのアトリエ 3
+- [ ] FINAL FANTASY VII REBIRTH
 
 ## 2026
 
